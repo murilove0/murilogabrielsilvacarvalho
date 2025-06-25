@@ -7,6 +7,8 @@
 - 🌐 **GitHub:** [murilogabrielsilvacarvalho](https://github.com/murilove0)  
 - 🔗 **LinkedIn:** [Murilo Gabriel Silva Carvalho](https://www.linkedin.com/in/murilo-gabriel-silva-carvalho-12b9b9303/)
 
+---
+
 ## 🛠️ Skills & Experience
 
 - **Mobile Development**: Experience building cross-platform applications using **Flutter**.
@@ -14,6 +16,8 @@
   - **Flutter**: UI clones of popular apps (Instagram, Spotify, etc.).
   - **Firebase**: Integration of push notifications and authentication.
   - **Docker**: Isolated development environments for backend with Node.js.
+
+---
 
 ## 💼 Professional Experience
 
@@ -30,6 +34,8 @@
 - Assisted in bookkeeping, document management, and financial reporting.
 - Provided administrative support to the accounting department.
 
+---
+
 ## 🎓 Education
 
 🏫 **Technological Federal University of Paraná (UTFPR)**  
@@ -38,9 +44,13 @@
 
 - Currently in the 3rd year of the Computer Science program.
 
+---
+
 ## 🌍 Certifications
 
 - **Advanced English Course** (FISK – Presidente Venceslau/SP): Completed an advanced-level English language course.
+
+---
 
 ## 📂 Repositories
 
